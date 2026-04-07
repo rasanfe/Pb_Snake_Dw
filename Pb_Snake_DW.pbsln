@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Solution>
+  <Projects Default="pb_snake_dw.pbproj">
+    <Project Path="pb_snake_dw.pbproj"/>
+  </Projects>
+</Solution>
