@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Lines](https://img.shields.io/badge/code-~280%20lines-orange)
 
+![Snake in action](screenshoot.gif)
+
 ---
 
 ## ✨ Why?
