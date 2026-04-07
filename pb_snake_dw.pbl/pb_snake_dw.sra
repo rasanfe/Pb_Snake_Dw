@@ -11,6 +11,7 @@ end forward
 
 global type pb_snake_dw from application
 string appname = "pb_snake_dw"
+
 string themepath = "C:\Program Files (x86)\Appeon\PowerBuilder 25.0\IDE\theme"
 string themename = "Do Not Use Themes"
 boolean nativepdfvalid = false
@@ -20,7 +21,7 @@ long richtextedittype = 5
 long richtexteditx64type = 5
 long richtexteditversion = 3
 string richtexteditkey = ""
-string appicon = ""
+string appicon = "icono.ico"
 string appruntimeversion = "25.0.0.3726"
 boolean manualsession = false
 boolean unsupportedapierror = false
