@@ -77,6 +77,8 @@ That's it — no database connection, no external assets.
 
 ## 🙏 Credits
 
+The original spark for this project was the [*Minefield DataWindow Game*](https://community.appeon.com/codeexchange/powerbuilder/400-minefield-datawindow-game) on Appeon CodeExchange — a Minesweeper clone where the entire minefield is dynamically built inside a DataWindow with `Modify()`. That was the proof that a DataWindow could be used as a full game canvas, and it directly inspired me to try something animated.
+
 The cell‑binding rendering trick (creating rectangles once and driving them with DataWindow expressions instead of recreating them on every frame) was inspired by **René Ullrich**'s [*Three Simple Games*](https://community.appeon.com/codeexchange/powerbuilder/114-three-simple-games) on Appeon CodeExchange. His Snake taught me the pattern that turned my flickery prototype into something that actually feels smooth. Big thanks!
 
 This project was developed by **Claude Code** following my ideas and direction.
